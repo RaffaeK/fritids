@@ -1,6 +1,6 @@
 /*Dette programmet skriver ut tall fra bruker som tekst, endring 14.16 */
 import java.util.Scanner;
-
+//test
 public class NumberToWords {
 
 	public void pw( int n, String ch) {
